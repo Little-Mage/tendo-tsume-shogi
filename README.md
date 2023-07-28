@@ -1,6 +1,5 @@
 # tendo-tsume-shogi
 
-https://www.instagram.com/p/CA5TZVel3sX/?hl=en
 https://www.instagram.com/p/CAxaeF9lMru/?hl=en
 https://www.instagram.com/p/CAW6W0oAX2E/?hl=en
 https://www.instagram.com/p/B_0gW1blJL8/?hl=en
