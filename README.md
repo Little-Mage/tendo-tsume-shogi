@@ -2,7 +2,6 @@
 
 https://www.instagram.com/p/CAxaeF9lMru/?hl=en
 https://www.instagram.com/p/CAW6W0oAX2E/?hl=en
-https://www.instagram.com/p/B-9HB-sFwE7/?hl=en
 
 https://travel-lounge.jp/japan/yamagata/basho-tendo/
 
