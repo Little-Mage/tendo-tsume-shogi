@@ -15,4 +15,6 @@ https://www.city.tendo.yamagata.jp/tourism/syougi/syougikoma.html
 
 http://sunnyvzr.web.fc2.com/Tendo_city/tendo_tumesyogi.html
 http://sunnyvzr.web.fc2.com/Tendo_city/tendo_city1.html
+
+https://gurutabi.gnavi.co.jp/a/a_2209/
 <!-- karo has 60 -->
