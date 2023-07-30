@@ -1,4 +1,5 @@
 # tendo-tsume-shogi
+天童市 詰将棋
 
 https://www.instagram.com/p/CAxaeF9lMru/?hl=en
 
@@ -11,5 +12,7 @@ https://www.athome.co.jp/vox/series/life/49210/
 https://jp.neft.asia/archives/10325
 
 https://www.city.tendo.yamagata.jp/tourism/syougi/syougikoma.html
+
+http://sunnyvzr.web.fc2.com/Tendo_city/tendo_tumesyogi.html
 
 <!-- karo has 60 -->
