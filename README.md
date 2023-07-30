@@ -14,5 +14,5 @@ https://jp.neft.asia/archives/10325
 https://www.city.tendo.yamagata.jp/tourism/syougi/syougikoma.html
 
 http://sunnyvzr.web.fc2.com/Tendo_city/tendo_tumesyogi.html
-
+http://sunnyvzr.web.fc2.com/Tendo_city/tendo_city1.html
 <!-- karo has 60 -->
