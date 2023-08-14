@@ -1,0 +1,33 @@
+﻿Start Date:2023/08/13 17:59:35
+Problem Solving Engine:SeoTsume 1.2
+Time Limit Per Problem:No Limit
+Saved File Format:KIF
+----
+Komap-10.kif
+There is a mate in 7 moves in this position.(00:00:00)
+----
+Komap-12.kif
+There is a mate in 7 moves in this position.(00:00:00)
+----
+Komap-13.kif
+There is a mate in 9 moves in this position.(00:00:00)
+----
+Komap-16.kif
+There is a mate in 11 moves in this position.(00:00:00)
+----
+Komap-17.kif
+There is a mate in 5 moves in this position.(00:00:00)
+----
+Komap-18.kif
+There is a mate in 9 moves in this position.(00:00:00)
+----
+Komap-19.kif
+There is a mate in 5 moves in this position.(00:00:00)
+----
+Komap-7.kif
+There is a mate in 17 moves in this position.(00:00:00)
+----
+no11.kif
+There is no mate in this position.(00:00:00)
+----
+Finish Date:2023/08/13 17:59:45
