@@ -1,0 +1,39 @@
+﻿Start Date:2023/08/19 14:09:17
+Problem Solving Engine:SeoTsume 1.2
+Time Limit Per Problem:No Limit
+Saved File Format:KIF
+----
+5te-01.kif
+There is a mate in 5 moves in this position.(00:00:00)
+----
+5te-02.kif
+There is a mate in 5 moves in this position.(00:00:00)
+----
+5te-03.kif
+There is a mate in 5 moves in this position.(00:00:00)
+----
+7te-01.kif
+There is a mate in 7 moves in this position.(00:00:00)
+----
+7te-02.kif
+There is a mate in 7 moves in this position.(00:00:00)
+----
+7te-03.kif
+There is a mate in 7 moves in this position.(00:00:00)
+----
+7te-04.kif
+There is a mate in 7 moves in this position.(00:00:00)
+----
+7te-05.kif
+There is a mate in 7 moves in this position.(00:00:00)
+----
+7te-06.kif
+There is a mate in 7 moves in this position.(00:00:00)
+----
+7te-07.kif
+There is a mate in 7 moves in this position.(00:00:00)
+----
+9te-01.kif
+There is a mate in 9 moves in this position.(00:00:00)
+----
+Finish Date:2023/08/19 14:09:30
