@@ -1,9 +1,0 @@
-﻿Start Date:2023/08/19 14:08:54
-Problem Solving Engine:SeoTsume 1.2
-Time Limit Per Problem:No Limit
-Saved File Format:KIF
-----
-no11.kif
-There is no mate in this position.(00:00:00)
-----
-Finish Date:2023/08/19 14:08:54
